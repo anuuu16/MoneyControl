@@ -44,7 +44,7 @@ pytest==4.3.0
 pytest-runner==4.2
 python-lzf==0.2.4
 pywin32==223
-PyYAML==3.13
+PyYAML==5.4
 query-string==2018.11.20
 queuelib==1.5.0
 rdbtools==0.1.14
