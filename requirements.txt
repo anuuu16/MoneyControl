@@ -43,7 +43,7 @@ PySocks==1.6.8
 pytest==4.3.0
 pytest-runner==4.2
 python-lzf==0.2.4
-pywin32==223
+pywin32==301
 PyYAML==3.13
 query-string==2018.11.20
 queuelib==1.5.0
